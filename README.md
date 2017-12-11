@@ -1,5 +1,5 @@
 ## Description
-This Machine Learning analysis was completed as part of Udacity.com’s Data Analyst Nanodegree.  The analysis is of Enron email and financial data to identify persons of interest and was completed using Python and the scikit-learn library.  
+This Machine Learning analysis was completed as part of Udacity.com’s Data Analyst Nanodegree.  The analysis is of Enron email and financial data to identify persons of interest and was completed using the scikit-learn library in Python.
 
 ## Documents
 * poi_id.py - This file contains the Python code for the machine learning algorithm.
