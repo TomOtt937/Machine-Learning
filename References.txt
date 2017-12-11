@@ -1,0 +1,4 @@
+The following websites were used as references to help complete this project:
+https://www.google.com
+http://scikit-learn.org
+https://stackoverflow.com
